@@ -1,0 +1,14 @@
+
+
+
+/* 导航菜单重置样式 */
+
+.el-menu-item.is-active {
+	background-color: #00c2a5 !important;
+}
+.is-active .el-submenu__title{
+	background-color: plum !important;
+}
+.el-menu-item:hover{
+	background-color: #00c2a5 !important;
+}

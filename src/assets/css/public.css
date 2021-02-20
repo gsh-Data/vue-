@@ -1,0 +1,14 @@
+/* 公共样式 */
+/* 小手 */
+.cursor{
+    cursor: pointer;
+}
+/* 单行省略号 */
+.ellipsis{
+    overflow: hidden;
+    text-overflow:ellipsis;
+    white-space: nowrap;
+}
+.el-loading-mask.is-fullscreen{
+    background: rgba(255,255,255,.1) !important;
+}

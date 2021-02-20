@@ -1,0 +1,9 @@
+@font-face{
+    font-family:'ZhanKuQingKeHuangYou';
+    /* src:url('./ZhanKuQingKeHuangYouTi-2.ttf'); */
+    src:url("ZhanKuQingKeHuangYouTi-2.woff2") format("woff2"),
+        url("ZhanKuQingKeHuangYouTi-2.woff") format("woff"),
+        url("ZhanKuQingKeHuangYouTi-2.ttf") format("truetype"),
+        url("ZhanKuQingKeHuangYouTi-2.eot") format("embedded-opentype"),
+        url("ZhanKuQingKeHuangYouTi-2.svg") format("svg");
+}
